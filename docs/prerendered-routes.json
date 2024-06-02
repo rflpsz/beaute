@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/contato",
+    "/debutantes",
+    "/dia-a-dia",
+    "/eventos-especiais",
+    "/noivas",
+    "/sobre"
+  ]
+}
