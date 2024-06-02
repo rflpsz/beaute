@@ -1,0 +1,22 @@
+.nav-link.active {
+    font-weight: bold;
+    color: #000;
+}
+
+.offcanvas-no-shadow {
+    box-shadow: none !important;
+}
+
+.body-no-scroll {
+    overflow: auto !important;
+}
+
+.logo {
+    width: 100%;
+    max-width: 120px;
+}
+
+.navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}

@@ -1,0 +1,9 @@
+@if (images) {
+<ngb-carousel>
+    <ng-template *ngFor="let image of images; let i = index" ngbSlide>
+        <div class="picsum-img-wrapper">
+            <img [src]="image" class="w-100 home-gallery" alt="Random first slide" />
+        </div>
+    </ng-template>
+</ngb-carousel>
+}
