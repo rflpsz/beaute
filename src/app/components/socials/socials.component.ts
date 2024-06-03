@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
 export class SocialsComponent {
   socials: any[] = [
     { name: 'Instagram', icon: 'instagram', url: 'https://www.instagram.com/espacobeauteoficial' },
-    { name: 'Tiktok', icon: 'tiktok', url: 'https://www.tiktok.com/@espacojulianarodrigues' },
-    { name: 'Facebook', icon: 'facebook', url: 'https://www.facebook.com/espacojulianariopardo' }
+    { name: 'Tiktok', icon: 'tiktok', url: 'https://www.tiktok.com/@espacobeauteoficial' },
+    { name: 'Facebook', icon: 'facebook', url: 'https://www.facebook.com/espacobeauteoficial/' }
   ];
 }
